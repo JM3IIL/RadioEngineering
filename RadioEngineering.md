@@ -29,3 +29,7 @@ E = \frac{\sqrt{45P}}{d} [V/m]
 ```math
 E = \frac{\sqrt{49.2P}}{d} ≒ \frac{7\sqrt{P}}{d} [V/m]
 ```
+
+## スミスチャート
+https://ja.m.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88
+
