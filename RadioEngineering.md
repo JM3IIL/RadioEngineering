@@ -38,3 +38,6 @@ https://ja.m.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3
 https://www.rikou.ryukoku.ac.jp/journal/journal73/RJ73-02.pdf
 
 
+http://www.takuichi.net/hobby/edu/em/far_field/index.html
+
+
