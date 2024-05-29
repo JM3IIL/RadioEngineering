@@ -9,3 +9,7 @@ https://www.fbnews.jp/202201/mrsmith/
 https://engineer-climb.com/balun/
 
 
+http://www.bekkoame.ne.jp/~m.mats/Image/technical/Balun/Balun-1kousatu.htm
+
+
+
