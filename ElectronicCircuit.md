@@ -20,3 +20,8 @@ https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%A4%89%E8%A
 社団法人 日本船舶電装協会
 平成9年度
 https://nippon.zaidan.info/seikabutsu/1997/01208/mokuji.htm
+
+通信講習用　船舶電気装備技術講座（電気機器編、初級）
+社団法人 日本船舶電装協会
+平成15年度　
+https://nippon.zaidan.info/seikabutsu/2003/00134/mokuji.htm
