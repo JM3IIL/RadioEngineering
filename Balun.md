@@ -27,5 +27,14 @@ https://www.henteko.org/wpress/ham_radio/antenna_balun/
 同軸バランに関する一考察
 http://www.bekkoame.ne.jp/~m.mats/Image/technical/Balun/Balun-1kousatu.htm
 
+## ダミーロード
 
+
+https://www5a.biglobe.ne.jp/~jh2clv/dummy.htm
+
+http://jr4pdp.blog.enjoy.jp/.s/myblog/2017/06/post-a96a.html
+
+http://7l1wqg.jp/s/article/71020949.html
+
+https://senior-fun.main.jp/radio/2017.08.29.html
 
