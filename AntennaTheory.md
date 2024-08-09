@@ -14,3 +14,14 @@ https://www.wti.jp/contents/blog/blog210407.htm
 http://take103.blog.fc2.com/blog-entry-15.html
 
 
+# アンテナ素材
+
+TDK フェライト・ワールド 第3回　アンテナコイルにフェライトコアが使われるのは？
+https://www.tdk.com/ja/tech-mag/ferrite02/003
+
+ステンレスワイヤーはアンテナエレメントとしてどうなのか？
+https://lowreal.net/2014/10/06/2
+
+アンテナエレメントとしてステンレスは不適当か？ ～ 透磁率と表皮効果
+https://www.jh4vaj.com/archives/28256
+
