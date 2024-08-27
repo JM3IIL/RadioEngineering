@@ -7,13 +7,14 @@
 
 
 [アンテナ理論](./AntennaTheory.md)
-[バラン](./Balun.md)
-[電界](./ElectricField.md)
+[アンテナ種類](./AntennaType.md)
+[バラン(平衡不平衡変換器)](./Balun.md)
+[電界(電場)](./ElectricField.md)
 [電子回路](./ElectronicCircuit.md)
 [周波数割当](./FrequencyAssignment.md)
-[発振](./ModulationMethod.md)
+[変調方式](./ModulationMethod.md)
 
 
-[資格](./QualificationLinks.md)
+[資格試験](./QualificationLinks.md)
 
 
