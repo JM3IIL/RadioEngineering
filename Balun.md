@@ -9,6 +9,9 @@ https://www.fbnews.jp/202201/mrsmith/
 バランの原理
 https://engineer-climb.com/balun/
 
+バラン
+http://t-sato.in.coocan.jp/terms/balun.html
+
 バラン組立説明書(JARL和歌山県支部主催 アンテナ講習会用資料)
 https://www.jarl.com/wakayama/pdf/baran2021.pdf
 
