@@ -16,6 +16,9 @@ https://www.oit.ac.jp/elc/~kumamoto/radio/03.pdf
 日本電業工作株式会社 アンテナ博士の電波講座 
 https://www.den-gyo.com/innovation/kouza/antenna/
 
+図研テック EMC設計のポイント 1 クーロンの法則で考える 
+https://www.zukentec.co.jp/zukentecnews/emc001/
+
 6 アンテナが発する磁界
 http://helix-oyj.com/antenna
 
