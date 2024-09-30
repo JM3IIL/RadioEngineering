@@ -8,10 +8,24 @@ https://www.ieice.org/cs/ap/jpn/ws/ws62/WS-62_text_sample_r.pdf
 
 https://www.wti.jp/contents/blog/blog210407.htm
 
+大阪工業大学 工学部 電子情報通信工学科 無線通信工学講義用ホームページ
+https://www.oit.ac.jp/elc/~kumamoto/radio/data.html
+3.アンテナの特性と原理
+https://www.oit.ac.jp/elc/~kumamoto/radio/03.pdf
+
+日本電業工作株式会社 アンテナ博士の電波講座 
+https://www.den-gyo.com/innovation/kouza/antenna/
+
+6 アンテナが発する磁界
+http://helix-oyj.com/antenna
 
 
 # アンテナ実装例
 http://take103.blog.fc2.com/blog-entry-15.html
+
+## 電界アンテナ
+
+## 磁界アンテナ
 
 
 # アンテナ素材
@@ -24,4 +38,12 @@ https://lowreal.net/2014/10/06/2
 
 アンテナエレメントとしてステンレスは不適当か？ ～ 透磁率と表皮効果
 https://www.jh4vaj.com/archives/28256
+
+
+
+
+# 給電線
+平衡二線式給電線
+同軸ケーブル
+
 
