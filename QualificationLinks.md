@@ -21,3 +21,7 @@ http://www.sol.dti.ne.jp/ssuzuki/
 無線工学B過去問解説まとめ
 https://jr2kcb.com/archives/1593
 
+第一級陸上無線技術士への裏技
+https://rikugi.com/category/wireless_b/
+
+
