@@ -24,4 +24,10 @@ https://jr2kcb.com/archives/1593
 第一級陸上無線技術士への裏技
 https://rikugi.com/category/wireless_b/
 
+1アマ試験_無線工学　過去問の解き方
+http://take103.blog.fc2.com/blog-entry-71.html
+
+めざせ!! 上級ハム
+https://jr2sxc.wixsite.com/kokusi-siryo/resume
+
 
