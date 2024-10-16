@@ -15,9 +15,9 @@
 [変調方式](./ModulationMethod.md)
 
 
-[アンテナ理論](./AntennaTheory.md)
-[アンテナ理論](./AntennaTheory.md)
-[アンテナ理論](./AntennaTheory.md)
+[デシベル](./AngularVelocity.md)
+[角速度・角周波数](./Decibel.md)
+[電力半値幅](./HalfPowerBeamWidth.md)
 [電力定在波比](./VoltageStandingWaveRatio.md)
 
 
