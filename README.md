@@ -18,7 +18,7 @@
 [アンテナ理論](./AntennaTheory.md)
 [アンテナ理論](./AntennaTheory.md)
 [アンテナ理論](./AntennaTheory.md)
-[アンテナ理論](./AntennaTheory.md)
+[電力定在波比](./VoltageStandingWaveRatio.md)
 
 
 
