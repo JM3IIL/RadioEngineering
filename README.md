@@ -23,6 +23,10 @@
 
 
 
+[送信機](./Transmitter.md)
+[受信機](./Reciever.md)
+
+
 [資格試験](./QualificationLinks.md)
 
 
