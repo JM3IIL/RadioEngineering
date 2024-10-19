@@ -34,3 +34,7 @@ $$10log_{10} 10 = 1 = 10dB$$
 $x = log_a b$　は $a^x = b$  
 
 $log_a b^n = n log_a b$
+
+$a^\frac{1}{n}=\sqrt[n]{a}$
+
+
