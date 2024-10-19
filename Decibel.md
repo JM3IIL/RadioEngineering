@@ -7,7 +7,7 @@ https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B7%E3%83%99%E3%83%AB
 $$log_{10} 100 = 2 = 20dB$$
 $$log_{10} 10 = 1 = 10dB$$
 $$log_{10} 2 = 0.30102999 ≒ 3dB$$
-$$log_{10} 1/2 = 1 = 10dB$$
+$$log_{10} \frac{1}{2} = -log_{10} 2 ≒ -3dB$$
 
 
 |デシベル値|倍数(比：電力)|
@@ -36,6 +36,8 @@ $$log_{10} 1/2 = 1 = 10dB$$
 $x = log_a b$　は $a^x = b$  
 
 $log_a b^n = n log_a b$
+
+$log_a \frac{1}{b} = - log_a b$
 
 $b^\frac{1}{n}=\sqrt[n]{b}$
 
