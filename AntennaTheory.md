@@ -22,6 +22,10 @@ https://www.zukentec.co.jp/zukentecnews/emc001/
 6 アンテナが発する磁界
 http://helix-oyj.com/antenna
 
+# 微小ダイポールアンテナ
+放射抵抗
+$R_r = \frac{80π^2l^2}{λ^2}$
+
 
 # アンテナ実装例
 http://take103.blog.fc2.com/blog-entry-15.html
