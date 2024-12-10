@@ -1,5 +1,24 @@
 # 無線工学B試験準備
 
+## 数学基礎
+対数計算
+$10 log_{10} 2 = 3.01$
+$10 log_{10} 3 = 4.77$
+$10 log_{10} 3.16 = 4.99$
+$10 log_{10} 5 = 6.99$
+$10 log_{10} 10 = 10$
+
+3 [dB] 2倍
+5 [dB] 3倍 (3.16倍)
+7 [dB] 5倍
+10[dB] 10倍
+https://xtech.nikkei.com/dm/atcl/feature/15/072600117/00004/
+
+三角関数
+$sin α sin β = − \frac{1}{2}{cos(α + β) − cos(α − β)}$
+$sin α cos β = \frac{1}{2}{sin(α + β) + sin(α − β)}$
+
+## 過去問
 【参考資料】
 http://www.sol.dti.ne.jp/ssuzuki/radio_wave/R6.1-R4.7(1).html
 https://rikugi.com/kougaku_b/
