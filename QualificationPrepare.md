@@ -27,6 +27,9 @@ $10 log_{10} 10 = 10$
 https://xtech.nikkei.com/dm/atcl/feature/15/072600117/00004/
 
 三角関数
+https://www.meikogijuku.jp/meiko-plus/study/trigonometric-function.html
+
+$sin (α + β) = sin α cos β + cos α sin β
 $sin α sin β = − \frac{1}{2}{cos(α + β) − cos(α − β)}$
 $sin α cos β = \frac{1}{2}{sin(α + β) + sin(α − β)}$
 
