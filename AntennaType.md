@@ -18,17 +18,16 @@
 |双ループアンテナ|エレメント長はそれぞれ1波長|https://ja.wikipedia.org/wiki/%E5%8F%8C%E3%83%AB%E3%83%BC%E3%83%97%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
 |4ダイポールアンテナ||
 |スーパーターンスタイルアンテナ|360°指向性|https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
-|||
+||||
 |自己補対アンテナ||https://ja.m.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A3%9C%E5%AF%BE%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
 |ロンビックアンテナ||https://ja.m.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%93%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
-
-
+||||
 |ヘンテナ||https://ja.m.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%86%E3%83%8A|
-
+||||
 |ループアンテナ||https://ja.m.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%97%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
-
-
-
+||||
+|ディスコーンアンテナ|バイコニカルアンテナ参照|https://ja.m.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
+|スリーブアンテナ|ブラウンアンテナ参照|https://ja.m.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%96%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
 
 Antenna types (Wikipedia)
 https://en.wikipedia.org/wiki/Antenna_types
