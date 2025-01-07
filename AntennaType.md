@@ -19,8 +19,8 @@
 |4ダイポールアンテナ||
 |スーパーターンスタイルアンテナ|360°指向性|https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
 ||||
-|自己補対アンテナ||https://ja.m.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A3%9C%E5%AF%BE%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
-|ロンビックアンテナ||https://ja.m.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%93%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
+|自己補対アンテナ|広帯域|https://ja.m.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A3%9C%E5%AF%BE%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
+|ロンビックアンテナ|進行波・広帯域|https://ja.m.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%93%E3%83%83%E3%82%AF%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A|
 ||||
 |ヘンテナ||https://ja.m.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%86%E3%83%8A|
 ||||
