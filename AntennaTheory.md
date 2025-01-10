@@ -29,6 +29,10 @@ $R_r = \frac{80π^2l^2}{λ^2}$
 微小ダイポールアンテナの放射抵抗の式の導出と放射効率について
 https://note.com/rf_engineer/n/n0bfdc5285fef
 
+# 半波長ダイポールアンテナ
+2009-04-04
+http://t-sato.in.coocan.jp/terms/halfwave-dipole.html
+
 # アンテナ実装例
 ＴＶアンテナの支線を利用した２１MHzループアンテナ
 http://take103.blog.fc2.com/blog-entry-15.html
