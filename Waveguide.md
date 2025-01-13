@@ -9,3 +9,7 @@ https://neurois.hatenablog.com/entry/2020/07/05/073309
 方形導波管
 https://www.vinita.co.jp/institute/microwave/070040.html
 
+
+http://www.gxk.jp/elec/musen/1ama/H32/html/H3212A21_.html
+
+
