@@ -11,6 +11,8 @@
 
 反射係数 $Γ = \frac{Z_L - Z_O}{Z_L + Z_O}$
 
+$Z_L > Z_O$ のとき $VSWR = \frac{Z_L}{Z_O}$
+$Z_L < Z_O$ のとき $VSWR = \frac{Z_O}{Z_L}$ 
 
 負荷インピーダンス = 給電線インピーダンス/VSWR
 
