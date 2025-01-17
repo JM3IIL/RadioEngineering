@@ -1,5 +1,9 @@
 # 電圧定在波比 (VSWR：Voltage Standing Wave Ratio)
 
+「電圧反射係数」を Γ とすると、
+$VSWR = \frac{1 + |Γ|}{1 − |Γ|}$
+(電圧反射係数:進行波の振幅に対する反射波の振幅の比率)
+
 負荷インピーダンス = 給電線インピーダンス/VSWR
 
 Tom Sato
