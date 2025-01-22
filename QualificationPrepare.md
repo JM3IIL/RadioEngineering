@@ -48,6 +48,9 @@ $sin α cos β = \frac{1}{2}{sin(α + β) + sin(α − β)}$
 http://www.sol.dti.ne.jp/ssuzuki/radio_wave/R6.1-R4.7(1).html
 https://rikugi.com/kougaku_b/
 
+************ 実効長と実効面積 実効面積と絶対利得
+
+
 R05_07_1_A02 開口面アンテナによる放射電磁界
 - 開口面の実効的な最大寸法 D [m] 、波長 λ [m]
 - フラウンホーファー領域 距離が変わっても指向性はほとんど変化しない(遠方界領域) $R > \frac{2D^2}{λ}$
