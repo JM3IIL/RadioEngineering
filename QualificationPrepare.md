@@ -1,7 +1,7 @@
 # 無線工学B試験準備
 
 ## 数学基礎
-対数計算
+### 対数計算
 $x = a^p$ $p = log_a x$
 
 $10 log_{10} 2 = 3.01$
@@ -28,12 +28,19 @@ $10 log_{10} 10 = 10$
 
 https://xtech.nikkei.com/dm/atcl/feature/15/072600117/00004/
 
-三角関数
+### 三角関数
 https://www.meikogijuku.jp/meiko-plus/study/trigonometric-function.html
 
 $sin (α + β) = sin α cos β + cos α sin β$
 $sin α sin β = − \frac{1}{2}{cos(α + β) − cos(α − β)}$
 $sin α cos β = \frac{1}{2}{sin(α + β) + sin(α − β)}$
+
+### 数値
+$\frac{1}{\sqrt{2}} = \frac{\sqrt{2}}{2} = 0.707$
+$\frac{2}{π} = 0.636$
+$\frac{π}{4} = 0.785$
+$\frac{}{} = $
+$\frac{}{} = $
 
 ## 電磁波基礎
 伝播速度 v [m/s] = 周波数 f [Hz] × 波長 λ [m]
