@@ -27,7 +27,7 @@ https://rikugi.com/category/wireless_b/
 1アマ試験_無線工学　過去問の解き方
 http://take103.blog.fc2.com/blog-entry-71.html
 
-無線工学の基礎
+無線工学の基礎 (1アマの無線工学)
 http://www.gxk.jp/elec/musen/1ama/
 
 めざせ!! 上級ハム
