@@ -22,8 +22,10 @@
 
 トーン発振器
 
-AFC回路
+AFC回路：Automatic frequency controlから (自動周波数制御)
 
-IDC回路
+IDC回路：Instantaneous Deviation Control (瞬時周波数制御) FM
+http://www.gxk.jp/elec/musen/1ama/H17/html/H1712A12_.html
 
+ALC回路 SSB
 
