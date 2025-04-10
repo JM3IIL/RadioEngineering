@@ -20,6 +20,7 @@
 - [電力半値幅](./HalfPowerBeamWidth.md)
 - [整合回路](./MatchingCircuit.md)
 - [特性インピーダンス](./CharacteristicImpedance.md)
+- [相互変調](./Intermodulation.md)
 
 
 - [電力定在波比](./VoltageStandingWaveRatio.md)
