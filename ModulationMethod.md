@@ -3,7 +3,9 @@
 https://ja.wikipedia.org/wiki/%E5%A4%89%E8%AA%BF%E6%96%B9%E5%BC%8F
 
 ## アナログ変調
+振幅変調
 
+周波数変調
 
 ## デジタル変調
 https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%A4%89%E8%AA%BF
