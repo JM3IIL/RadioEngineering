@@ -39,7 +39,7 @@
 
 [資格試験](./QualificationLinks.md)
 
-
+[試験準備](./QualificationPrepare.md)
 
 - [電波法](./RadioLaw.md)
 
