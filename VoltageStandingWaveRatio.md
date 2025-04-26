@@ -28,3 +28,9 @@ AnalogDevices
 電圧定在波比の定義と計算 2012-11-15 
 https://www.analog.com/jp/resources/technical-articles/voltage-standing-wave-ratio-definition-and-formula.html
 
+http://www.gxk.jp/elec/musen/1ama/H16/html/H1604A21_.html
+
+# 電力定在波比(SWR)
+SWR
+https://ja.wikipedia.org/wiki/%E5%AE%9A%E5%9C%A8%E6%B3%A2%E6%AF%94
+
