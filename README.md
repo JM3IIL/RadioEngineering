@@ -27,6 +27,7 @@
 - [電力定在波比](./VoltageStandingWaveRatio.md)
 - [スミスチャート](./SmithChart.md)
 - [リサジュー曲線](./LissajousCurve.md)
+- [SDR](./SDR.md)
 
 - [送信機](./Transmitter.md)
 - [受信機](./Receiver.md)
