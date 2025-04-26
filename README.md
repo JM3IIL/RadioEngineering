@@ -32,6 +32,10 @@
 - [受信機](./Receiver.md)
 
 
+- [山岳回折](./MountainDiffraction.md)
+
+
 [資格試験](./QualificationLinks.md)
+
 
 
