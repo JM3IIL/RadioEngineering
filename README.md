@@ -24,7 +24,7 @@
 - [相互変調](./Intermodulation.md)
 
 
-- [電力定在波比(VSWR)](./VoltageStandingWaveRatio.md)
+- [電圧定在波比(VSWR)](./VoltageStandingWaveRatio.md)
 - [スミスチャート](./SmithChart.md)
 - [リサジュー曲線](./LissajousCurve.md)
 - [SDR](./SDR.md)
