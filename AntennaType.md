@@ -44,5 +44,11 @@ https://helix-oyj.com/waves
 http://www.gxk.jp/elec/musen/1ama/H13/html/H1308A20_.html
 https://ameblo.jp/ja8rqd/entry-12885372470.html
 https://jr2kcb.com/archives/937
+https://rikugi.com/b_twinloop_antenna/
 
+## ターンスタイルアンテナ
+http://www.gxk.jp/elec/musen/1ama/H35/html/H3504A20_.html
 
+## スーパーターンスタイルアンテナ
+https://ap2.sakura.ne.jp/hiroin/mark/1rikugimark3.html
+ターンスタイルアンテナの直交ではなく、バッドウィングアンテナの直交
