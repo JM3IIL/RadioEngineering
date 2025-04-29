@@ -5,6 +5,17 @@ https://ja.wikipedia.org/wiki/%E5%A4%89%E8%AA%BF%E6%96%B9%E5%BC%8F
 ## アナログ変調
 振幅変調
 
+AM,SSB
+http://www.gxk.jp/elec/musen/1ama/H12/html/H1104A14_.html
+
+- 変調度 : m (0 <= m <= 1)
+- 無変調時の平均電力 (AMの搬送波出力) : $P_C$
+- 側波帯の電力 : 上側 $P_U$ 下側 $P_L$
+- AM変調波電力 : $P_T$
+
+$P_U = P_L = (m^2/4) P_C$
+$P_T = P_C + P_U + P_L = (1 + m^2/2) P_C$
+   
 周波数変調
 
 ## デジタル変調
