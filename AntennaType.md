@@ -37,3 +37,12 @@ https://www.antenna-theory.com/antennas/main.php
 https://www.den-gyo.com/innovation/kouza/antenna/detail04.php
 
 https://helix-oyj.com/waves
+
+
+## ループアンテナ
+
+http://www.gxk.jp/elec/musen/1ama/H13/html/H1308A20_.html
+https://ameblo.jp/ja8rqd/entry-12885372470.html
+https://jr2kcb.com/archives/937
+
+
