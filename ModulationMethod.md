@@ -15,7 +15,13 @@ http://www.gxk.jp/elec/musen/1ama/H12/html/H1104A14_.html
 
 $P_U = P_L = (m^2/4) P_C$
 $P_T = P_C + P_U + P_L = (1 + m^2/2) P_C$
-   
+
+
+位相法変調方式
+
+http://www.gxk.jp/elec/musen/1ama/H24/html/H2412A10_.html
+
+
 周波数変調
 
 ## デジタル変調
