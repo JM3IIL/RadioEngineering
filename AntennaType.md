@@ -38,6 +38,7 @@ https://www.den-gyo.com/innovation/kouza/antenna/detail04.php
 
 https://helix-oyj.com/waves
 
+http://www.gxk.jp/elec/musen/1ama/Htb/tableHH.html#aHH0515
 
 ## ループアンテナ
 
