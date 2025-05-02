@@ -35,6 +35,7 @@
 - [導波管](./Waveguide.md)
 
 - [山岳回折](./MountainDiffraction.md)
+- [コモンモード](./CommonMode.md)
 
 
 [資格試験](./QualificationLinks.md)
