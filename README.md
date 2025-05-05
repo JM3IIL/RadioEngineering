@@ -28,7 +28,7 @@
 - [電圧定在波比(VSWR)](./VoltageStandingWaveRatio.md)
 - [スミスチャート](./SmithChart.md)
 - [リサジュー曲線](./LissajousCurve.md)
-- [SDR](./SDR.md)
+- [SDR](https://github.com/JM3IIL/SoftwareDefinedRadio)
 
 - [送信機](./Transmitter.md)
 - [受信機](./Receiver.md)
