@@ -30,10 +30,6 @@ http://take103.blog.fc2.com/blog-entry-71.html
 雨の日は勉強でもするか
 https://ameblo.jp/ja8rqd/themetop.html
 
-無線工学の基礎 (1アマの無線工学)
-http://www.gxk.jp/elec/musen/1ama/
 
-めざせ!! 上級ハム
-https://jr2sxc.wixsite.com/kokusi-siryo/resume
 
 
