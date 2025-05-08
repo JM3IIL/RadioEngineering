@@ -3,6 +3,9 @@
 電波法
 https://laws.e-gov.go.jp/law/325AC0000000131
 
+遭難通信
+第53条、第54条
+
 電波法施行令
 https://laws.e-gov.go.jp/law/413CO0000000245
 
