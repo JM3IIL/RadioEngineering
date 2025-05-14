@@ -7,3 +7,7 @@ https://rikugi.com/a_ssb/
 
 振幅変調の変調度
 http://www.gxk.jp/elec/musen/1ama/H21/html/H2104A13_.html
+
+http://www.gxk.jp/elec/musen/1ama/H17/html/H1704A14_.html
+
+
