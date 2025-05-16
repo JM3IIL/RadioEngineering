@@ -24,8 +24,12 @@ $m = \frac{V_S}{V_C}$
 # 電力
 http://take103.blog.fc2.com/blog-entry-101.html
 
-平均電力
-搬送波電力
+- 平均電力 $P_m$
+- 搬送波電力 $P_C$
+
 $P_m = P_C(1+m^2/2)$
 
+- 変調波電圧(実効値)
+- 搬送波電圧(実効値)
 
+$E_m = E_C ¥sqrt{1+m^2/2}$
