@@ -21,3 +21,11 @@ http://www.gxk.jp/elec/musen/1ama/H17/html/H1704A14_.html
 
 $m = \frac{V_S}{V_C}$
 
+# 電力
+http://take103.blog.fc2.com/blog-entry-101.html
+
+平均電力
+搬送波電力
+$P_m = P_C(1+m^2/2)$
+
+
