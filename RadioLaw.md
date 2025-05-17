@@ -21,7 +21,7 @@ https://laws.e-gov.go.jp/law/325M50080000014
 無線設備規則
 https://laws.e-gov.go.jp/law/325M50080000018
 
-無線通信規則
+無線通信規則 (Radio Regulations, 2020)
 https://www.ituaj.jp/?page_id=15285
 https://www.itu.int/en/publications/ITU-R/pages/publications.aspx?parent=R-REG-RR-2020&media=electronic
 
