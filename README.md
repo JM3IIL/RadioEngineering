@@ -33,7 +33,7 @@
 - [送信機](./Transmitter.md)
 - [受信機](./Receiver.md)
 
-- [導波管](./Waveguide.md)
+- [導波管](./Waveguide.md) スロットアレイアンテナ
 
 - [山岳回折](./MountainDiffraction.md)
 - [コモンモード](./CommonMode.md)
