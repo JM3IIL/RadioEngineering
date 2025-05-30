@@ -37,6 +37,7 @@
 
 - [山岳回折](./MountainDiffraction.md)
 - [コモンモード](./CommonMode.md)
+- [等価地球半径](./EquivalentEarthRadius.md)
 
 
 [資格試験](./QualificationLinks.md)
