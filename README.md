@@ -38,7 +38,7 @@
 - [山岳回折](./MountainDiffraction.md)
 - [コモンモード](./CommonMode.md)
 - [等価地球半径](./EquivalentEarthRadius.md)
-
+- [見通し距離](./Line-of-sightPropagation.md)
 
 [資格試験](./QualificationLinks.md)
 
