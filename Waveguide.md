@@ -15,3 +15,8 @@ http://www.gxk.jp/elec/musen/1ama/H32/html/H3212A21_.html
 
 ## スロットアレーアンテナ
 
+https://digiradio.simple-was-best.com/glossary/slot-array-antenna/
+
+https://telecomshikaku.com/1rikutoku-r01-06-musen-a-18/
+
+
