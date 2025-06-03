@@ -14,3 +14,5 @@ https://www.analog.com/jp/resources/technical-articles/radio-frequency-impedance
 アンテナのマッチングに必要な回路定数を求める
 https://www.jh1lhv.tokyo/entry/2021/10/03/193936
 
+https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0_(%E7%84%A1%E7%B7%9A%E5%B7%A5%E5%AD%A6)
+
