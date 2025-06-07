@@ -11,5 +11,5 @@ https://www.fbnews.jp/201410/rensai/jh1nrr_digital_06_01.html
 ハンドメイド電界強度計
 http://www10.plala.or.jp/suzulan/field_intensity_meter.htm
 
-
-
+電界強度と電力
+https://www.circuitdesign.jp/technical/about-fi-st-rcv-pwr/
