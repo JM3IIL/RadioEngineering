@@ -15,7 +15,7 @@ c電波の速度2.99×10^8(m/s)
 
 $E[V/m] = \frac{\sqrt{30GtPt}}{d}$
 
-$E[dBV/m] = 20log(\frac{\sqrt{30GtPt}}{d))$
+$E[dBV/m] = 20log(\frac{\sqrt{30GtPt}}{d})$
 
 
 
