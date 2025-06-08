@@ -23,6 +23,7 @@
 - [特性インピーダンス](./CharacteristicImpedance.md)
 - [相互変調](./Intermodulation.md)
 - [放射抵抗](./RadiationResistance.md)
+- [実効長・実効面積](./effective length.md)
 
 
 - [電圧定在波比(VSWR)](./VoltageStandingWaveRatio.md)
