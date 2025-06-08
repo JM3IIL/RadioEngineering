@@ -13,9 +13,9 @@ c電波の速度2.99×10^8(m/s)
 - d: 送受信点間距離 [m]
 - Gt: 送信アンテナの絶対利得 [真数]
 
-E[V/m] = \frac{\sqrt{30GtPt}}{d}
+$E[V/m] = \frac{\sqrt{30GtPt}}{d}$
 
-E[dBV/m] = 20log(\frac{\sqrt{30GtPt}}{d))
+$E[dBV/m] = 20log(\frac{\sqrt{30GtPt}}{d))$
 
 
 
