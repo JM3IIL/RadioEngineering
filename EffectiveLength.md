@@ -1,6 +1,20 @@
 # 実効長
 「実効長」は、アンテナの性能を表す指標の一つで、物理的な長さとは異なる概念です。実効長は、アンテナの電流が均一に分布していると仮定した場合に、どれだけの長さに相当するかを表す値で、実際のアンテナの形状や材質などに影響されます。
 
+半波長ダイポールアンテナの実効長 $l_e [m]$
+- 波長 $λ [m]$
+- 周波数 $f [Hz]$
+- 光速 $c [m/s]$
+＄l_e = \frac{λ}{π} = \ffrac{c}{fπ}$
+
+λ/2ダイポールの場合 $l_e ＝ λ/π$
+λ/4垂直接地の場合 $l_e = λ/2π$
+
+https://telecomshikaku.com/1rikutoku-r03-06-musen-a-17/
+http://www.gxk.jp/elec/musen/1ama/H13/html/H1308A21_.html
+http://t-sato.in.coocan.jp/terms/halfwave-dipole.html
+https://rikugi.com/b_folded_dipoleantenna/
+
 
 # 実効面積
 「実効面積」は、アンテナが電波をどれだけ効率的に捕捉できるかを表す指標で、アンテナの物理的な大きさや形状だけでなく、電波の波長にも影響されます。﻿
