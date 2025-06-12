@@ -9,6 +9,7 @@ http://www.sol.dti.ne.jp/ssuzuki/radio_wave/chapter/R4.1(2).A-3.html
 
 覚える
 - 1/4波長垂直接地ANTの放射抵抗 : 36Ω
+- 半波長ダイポールANTの放射抵抗 : 73Ω
 
 - 放射電力 : $P [W]$
 - アンテナ入力電流 : $I [A]$
