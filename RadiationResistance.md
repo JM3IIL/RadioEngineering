@@ -19,4 +19,4 @@ http://www.sol.dti.ne.jp/ssuzuki/radio_wave/chapter/R4.1(2).A-3.html
 
  
 $P = I^2 R_r$
-$η = \frac{R_r}{R_E} ≒ \frac{R_r}{R_r + R_g}
+$η = \frac{R_r}{R_E} ≒ \frac{R_r}{R_r + R_g}$
