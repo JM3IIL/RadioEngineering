@@ -16,6 +16,7 @@
 - [波形率](FormFactor.md)
 - [変調度](./ModulationDegree.md)
 
+
 - [デシベル](./Decibel.md)
 - [角速度・角周波数](./AngularVelocity.md)
 - [電力半値幅](./HalfPowerBeamWidth.md)
@@ -24,6 +25,7 @@
 - [相互変調](./Intermodulation.md)
 - [放射抵抗](./RadiationResistance.md)
 - [実効長・実効面積](./EffectiveLength.md)
+- [位相定数](./PhaseConstant.md)
 
 
 - [電圧定在波比(VSWR)](./VoltageStandingWaveRatio.md)
