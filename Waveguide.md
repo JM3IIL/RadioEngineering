@@ -20,3 +20,6 @@ https://digiradio.simple-was-best.com/glossary/slot-array-antenna/
 https://telecomshikaku.com/1rikutoku-r01-06-musen-a-18/
 
 
+## TEモード、TMモード、TEMモード
+https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1243078667
+
