@@ -296,6 +296,7 @@ R05_01_2_A07 無損失の{同軸ケーブル|平行二線式線路}の単位長�
 - 単位長当たりのインダクタンス $L = Z_0 / v [H/m]$
 - 単位長当たりの静電容量 $C = \frac{1}{Z_0v} [F/m]$
 
+https://miscellaneous.tokyo/blog/transmission-line-theory/
 
 R06_01_A09 ベーテ孔方向性結合器
 - 磁界結合した電磁波の大きさは、cosθにほぼ比例
