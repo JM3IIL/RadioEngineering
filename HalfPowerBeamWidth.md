@@ -10,4 +10,4 @@ $G_d ≒ \frac{4π}{θ_E θ_H [rad]}
 
 https://ameblo.jp/ja8rqd/entry-12863845925.html
 
-
+https://rikugi.com/b_directional-gain/
