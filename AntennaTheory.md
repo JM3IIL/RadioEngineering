@@ -23,6 +23,9 @@ https://www.zukentec.co.jp/zukentecnews/emc001/
 http://helix-oyj.com/antenna
 
 # 微小ダイポールアンテナ
+放射電力
+$P = \frac{80π^2I^2l^2}{λ^2}$
+
 放射抵抗
 $R_r = \frac{80π^2l^2}{λ^2}$
 
