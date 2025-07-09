@@ -120,7 +120,9 @@ R06_01_A01 アンテナの利得と指向性および受信電力
 - $(\frac{λ}{4πd})^2$ は自由空間中の電波伝搬による利得
 - 自由空間伝搬損失 (Free Space Path Loss) $L_fsp = (\frac{4πd}{λ})^2$ は、この逆数
 
-  
+https://rikugi.com/b_jiyukukan_kihonndensouson/
+
+
 
 R05_07_2_A07 同軸線路の断面図、平行平板線路の断面図
 - ★裏技3-05 https://rikugi.com/b_parallel_stripline/
