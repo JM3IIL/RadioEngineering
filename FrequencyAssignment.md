@@ -16,11 +16,11 @@ https://www.tele.soumu.go.jp/j/adm/freq/search/myuse/use/index.htm
 
 ## 補足情報
 ### 中波放送
-五百二十六・五キロヘルツから千六百六・五キロヘルツ
+526.5kHz - 1606.5kHz
 https://ja.m.wikipedia.org/wiki/%E4%B8%AD%E6%B3%A2%E6%94%BE%E9%80%81
 
 ### 短波放送
-3MHzから30MHz
+3MHz - 30MHz
 https://ja.m.wikipedia.org/wiki/%E7%9F%AD%E6%B3%A2%E6%94%BE%E9%80%81
 
 ### 超短波放送
