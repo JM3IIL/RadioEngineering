@@ -36,5 +36,6 @@ https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E5%91%A8%E6%B3%A2%E6%9
 https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%94%BE%E9%80%81
 
 ### FM補完中継局
-
+90.1MHz - 98.9MHz
 https://ja.wikipedia.org/wiki/FM%E8%A3%9C%E5%AE%8C%E4%B8%AD%E7%B6%99%E5%B1%80
+
