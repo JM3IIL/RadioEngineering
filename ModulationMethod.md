@@ -17,15 +17,17 @@ $P_U = P_L = (m^2/4) P_C$
 $P_T = P_C + P_U + P_L = (1 + m^2/2) P_C$
 
 
-位相法変調方式
+FM 周波数変調
+
+PM 位相法変調方式
 
 http://www.gxk.jp/elec/musen/1ama/H24/html/H2412A10_.html
 
 
-周波数変調
-
 ## デジタル変調
 https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%A4%89%E8%AA%BF
+
+ASK/FSK/PSK
 
 符号分割多元接続（CDMA : Code Division Multiple Access）
 https://ja.wikipedia.org/wiki/%E7%AC%A6%E5%8F%B7%E5%88%86%E5%89%B2%E5%A4%9A%E5%85%83%E6%8E%A5%E7%B6%9A
